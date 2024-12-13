@@ -16,3 +16,6 @@ projeto_backend/
 ├── requirements.txt
 └── README.md
 """
+
+
+https://claude.ai/chat/a91c8578-18df-47ce-8e39-83330affb8c4
